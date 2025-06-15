@@ -61,7 +61,7 @@ function image (block) {
             <div class="row">
                 <div class="col-sm">
                     <div>
-                        <img src="${block.value}"/>
+                        <img class="image" src="${block.value}"/>
                     </div>
                 </div>
             </div>
